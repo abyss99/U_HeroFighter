@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4D858761-9868-1785-795E-B4B7B1B4418E}") = "HeroFighter", "Assembly-CSharp.csproj", "{288EBA75-CC0F-876C-B0AA-C9C00EC9CC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288EBA75-CC0F-876C-B0AA-C9C00EC9CC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288EBA75-CC0F-876C-B0AA-C9C00EC9CC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288EBA75-CC0F-876C-B0AA-C9C00EC9CC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288EBA75-CC0F-876C-B0AA-C9C00EC9CC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
